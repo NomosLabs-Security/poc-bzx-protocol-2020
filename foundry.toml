@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# bZx flash loan exploit — block before Feb 2020 attack
+fork_block_number = 9484688
